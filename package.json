@@ -20,5 +20,17 @@
     "precommit-hook": "0.3.x"
   },
   "author": "Philipp Hancke <fippo@andyet.net>",
-  "license": "MIT"
+  "license": "MIT",
+  "cortex": {
+    "dependencies": {
+      "util": "^1.0.4",
+      "webrtcsupport": "^0.7.3",
+      "wildemitter": "^1.0.1"
+    },
+    "asyncDependencies": {},
+    "devDependencies": {},
+    "directories": {},
+    "engines": {},
+    "scripts": {}
+  }
 }
